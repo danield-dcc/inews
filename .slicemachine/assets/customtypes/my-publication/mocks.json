@@ -1,0 +1,21 @@
+{
+  "id": "7fac4112-4054-449e-9570-0a71b62e5d34",
+  "uid": "cupiditate-repellat-voluptatem",
+  "type": "my-publication",
+  "data": {
+    "Title": [
+      {
+        "type": "paragraph",
+        "text": "Dolore aliqua veniam aute enim fugiat quis in ex duis veniam irure reprehenderit adipisicing cillum. Duis tempor et qui velit ut.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Incididunt anim excepteur cillum quis nisi adipisicing ex quis laborum ullamco excepteur anim do. Eiusmod occaecat eiusmod sunt reprehenderit duis nostrud aute quis eiusmod tempor veniam aliquip.",
+        "spans": []
+      }
+    ]
+  }
+}
