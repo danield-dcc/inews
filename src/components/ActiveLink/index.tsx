@@ -18,6 +18,7 @@ export function ActiveLink({
 
   return (
     <>
+      {/* clonar elemento permite adicionar novos parâmetros ao children */}
       <Link {...props}>
         {cloneElement(children, {
           className,
